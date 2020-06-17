@@ -1,7 +1,9 @@
 ﻿using System;
 using StackExchange.Redis;
 using Microsoft.Extensions.Configuration;
-
+/// <summary>
+/// from https://docs.microsoft.com/en-gb/azure/azure-cache-for-redis/cache-dotnet-core-quickstart
+/// </summary>
 namespace Redistest
 {
     class Program
