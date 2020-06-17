@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Xqp0z5YlpV5s0vUustlGBhqtfCONbJrGEJawMPX1d4c4jE1jG0CxzVIWDO7TfOnRkbDfAwhJAp0WJ8RI3Fa/g==",
+  "success": true,
+  "projectFilePath": "C:\\Working\\az204\\az-redis-demo\\Redistest\\Redistest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
