@@ -1,0 +1,12 @@
+C:\Working\az204\az-redis-demo\Redistest\bin\Debug\netcoreapp2.0\Redistest.deps.json
+C:\Working\az204\az-redis-demo\Redistest\bin\Debug\netcoreapp2.0\Redistest.runtimeconfig.json
+C:\Working\az204\az-redis-demo\Redistest\bin\Debug\netcoreapp2.0\Redistest.runtimeconfig.dev.json
+C:\Working\az204\az-redis-demo\Redistest\bin\Debug\netcoreapp2.0\Redistest.dll
+C:\Working\az204\az-redis-demo\Redistest\bin\Debug\netcoreapp2.0\Redistest.pdb
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.csprojAssemblyReference.cache
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.AssemblyInfoInputs.cache
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.AssemblyInfo.cs
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.csproj.CoreCompileInputs.cache
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.dll
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.pdb
+C:\Working\az204\az-redis-demo\Redistest\obj\Debug\netcoreapp2.0\Redistest.genruntimeconfig.cache
